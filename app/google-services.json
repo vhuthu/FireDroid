@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "676226062178",
+    "project_id": "cruddroid-53d4c",
+    "storage_bucket": "cruddroid-53d4c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:676226062178:android:decf21e2acdbdbff24fe3b",
+        "android_client_info": {
+          "package_name": "com.example.cruddroid"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "676226062178-7paskt6sri4b6oh4nhjfi95gfpmtv68c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7iwqQMslE04D5I9_K94g1Hi6AQBuH6RY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "676226062178-7paskt6sri4b6oh4nhjfi95gfpmtv68c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
